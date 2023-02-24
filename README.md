@@ -1,8 +1,6 @@
 # LangChain.js LLM Template
 
-This template allows you to make your own LLM, trained on custom data you provide.
-
-This example is Amjad Masad, the CEO of Replit.  You can try the live demo at https://ai.repl.page
+This is a LangChain LLM template that allows you to train your own custom AI LLM.  Setup is as easy as 1-2-3.
 
 ## Setup
 1. Provide all the information you want your LLM to be trained on in the `training` directory in markdown files.  Folder depth doesn't matter.
