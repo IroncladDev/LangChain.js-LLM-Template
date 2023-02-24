@@ -7,3 +7,5 @@ This is a LangChain LLM template that allows you to train your own custom AI LLM
 2. Add your OpenAI API key in environment vars via the kay `OPENAI_API_KEY`.
 3. Run `node initializeStore.js` to set up your vector store.
 4. Run index.js, and you are finished ✨
+
+Source code: https://github.com/Conner1115/LangChain.js-LLM-Template
