@@ -1,4 +1,4 @@
-import generateResponse from "./generateResponse.js";
+import generateResponse from "./lib/generateResponse.js";
 import promptSync from 'prompt-sync';
 
 const prompt = promptSync();
