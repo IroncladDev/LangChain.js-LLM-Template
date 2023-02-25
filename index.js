@@ -8,7 +8,7 @@ const conversationHistory = [];
 while (true) {
   const question = prompt("Ask a question >");
   const answer = await generateResponse({
-    question,
+    prompt: question,
     history: conversationHistory
   });
 
