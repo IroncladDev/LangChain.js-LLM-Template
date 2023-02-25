@@ -10,3 +10,5 @@ This is a LangChain LLM template that allows you to train your own custom AI mod
 5. Run index.js, and start playing around with it!
 
 Source code: https://github.com/Conner1115/LangChain.js-LLM-Template
+
+[![Run on Repl.it](https://replit.com/badge/github/Conner1115/LangChain.js-LLM-Template)](https://replit.com/new/github/Conner1115/LangChain.js-LLM-Template)
