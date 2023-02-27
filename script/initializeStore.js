@@ -31,7 +31,9 @@ console.log("Initializing Store...");
 const store = await HNSWLib.fromTexts(
   docs,
   docs.map((_, i) => ({ id: i })),
-  new OpenAIEmbeddings()
+  new OpenAIEmbeddings({
+    openAIApiKey: process.env.OPENAI_API_KEY
+  })
 )
 
 console.clear();
