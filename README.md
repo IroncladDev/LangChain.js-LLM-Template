@@ -11,4 +11,4 @@ This is a LangChain LLM template that allows you to train your own custom AI mod
 
 Source code: https://github.com/Conner1115/LangChain.js-LLM-Template
 
-[![Run on Replit](https://user-images.githubusercontent.com/50180265/221977287-4622854b-8c89-4f75-81af-eee6058a20fa.png)](https://replit.com/new/github/Conner1115/LangChain.js-LLM-Template)
+[![Run on Replit](https://user-images.githubusercontent.com/50180265/221977287-4622854b-8c89-4f75-81af-eee6058a20fa.png)](https://replit.com/@IroncladDev/LangChainjs-LLM-Template?v=1)
